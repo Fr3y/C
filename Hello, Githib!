@@ -1,0 +1,8 @@
+// Hello GithubCode
+#include <stdio.h>
+  int main() {
+  printf("Hello Githun/n");
+  printf("Welocme To, The Internetspirate/n");
+  printf("Profile")
+ return 0;
+}
