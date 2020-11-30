@@ -2,7 +2,9 @@
    #  C By InternetsPirate
 <p align="center">
 
-  <img src="https://images8.alphacoders.com/430/thumb-1920-430830.jpg">
+  <img src="https://wallpapercave.com/wp/wp3295252.jpg">
+  
+  <h6>Image From [wallpapwecave](https://wallpapercave.com/)
 
   <h1 align="center">C Programming ON</h1>
 
