@@ -11,3 +11,5 @@
 # Codes List
 
 [Hello, Githib!](https://github.com/internetspirate/C/blob/main/Hello%2C%20Githib!) 
+
+[Data Types](https://github.com/internetspirate/C/blob/main/Data%20Types)
